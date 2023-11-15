@@ -44,5 +44,6 @@ def calculator():
 
         print("Result: " + str(result))
 
-if _name_ == "_main_":
-    calculator()
+if __name__ == "__main__":
+    calculator()
+
